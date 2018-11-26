@@ -6,7 +6,7 @@ exports.inf = async function (INF, ALIAS) {
     return {
         invoke: async function (pointer, value) {
 
-            if (pointer === "expand") {
+            if (pointer === "expand()") {
 
                 console.log("Expand!");
 

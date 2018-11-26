@@ -7,6 +7,6 @@
         "bash.origin.test": "^0.1.40"
     },
     "scripts": {
-        "test": "bash.origin.test org.pinf.genesis.inception/tests"
+        "test": "bash.origin.test tests"
     }
 }
